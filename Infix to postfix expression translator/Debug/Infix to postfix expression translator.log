@@ -1,0 +1,10 @@
+﻿  displayConverter.cpp
+d:\uni year 2 (sem1)\c++ assignment\infix to postfix expression translator\infix to postfix expression translator\displayconverter.cpp(94): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+d:\uni year 2 (sem1)\c++ assignment\infix to postfix expression translator\infix to postfix expression translator\displayconverter.cpp(108): warning C4018: '<' : signed/unsigned mismatch
+  NumberconverterFuntions.cpp
+  SymbolconverterFunctions.cpp
+  NumberConverter.cpp
+d:\uni year 2 (sem1)\c++ assignment\infix to postfix expression translator\infix to postfix expression translator\numberconverter.cpp(9): warning C4552: '-' : operator has no effect; expected operator with side-effect
+  SymbolConverter.cpp
+  Generating Code...
+  Infix to postfix expression translator.vcxproj -> D:\Uni year 2 (sem1)\C++ assignment\Infix to postfix expression translator\Debug\Infix to postfix expression translator.exe
